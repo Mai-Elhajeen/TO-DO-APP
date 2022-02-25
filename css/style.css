@@ -9,7 +9,7 @@ body{
     width: 100%;
     height: auto;
     margin: 32px 0;
-    background: linear-gradient(15deg, #092825, #c1f3f51c);
+    background: linear-gradient(14deg, #1f8797, #e5f2f300);
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -31,7 +31,7 @@ button{
 }
 
 .header {
-    background-image: url(../img/ToDoList.jpg);
+    background-image: url(../img/To\ do\ list-cuate.png);
     background-position: center;
     background-size: 100% 200%;
     background-repeat: no-repeat;
@@ -61,12 +61,12 @@ div.date{
     width: 100%;
     height: 350px;
     max-height:350px;
-    background-color: #ccc;
+    background-color: #e7e7e7;
     overflow: auto;
     padding: 16px;
 }
 form#new-task-form{
-    background: #ccc;
+    background: #e7e7e7;
     padding: 16px;
     border-radius: 0 0 24px 24px;
 }
